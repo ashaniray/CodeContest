@@ -1,0 +1,12 @@
+Open emacs
+Control-x 2 (split in two)
+Control-x o (move to other window)
+Esc-x gdb (run gdb) 
+a.out
+b main
+r
+etc
+
+Control-g stop an executing command
+Ctrl-x Ctrl-c quit emacs
+Ctrl-x 1 Delete all but one window
